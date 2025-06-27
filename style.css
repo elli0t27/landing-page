@@ -33,6 +33,7 @@ ul{
     color: #f9faf8;
     flex: 1;
     font-style: italic;
+    font-weight: 900;
 }
 .link{
     margin: 0 20px;
