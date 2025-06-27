@@ -100,3 +100,18 @@ h2{
     font-weight: bold;
     font-size: 40px;
 }
+.quote{
+    padding: 5% 20%;
+    background-color: #e5e7eb;
+}
+.quote p{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    text-align: left;
+}
+#author{
+    font-weight: bold;
+    text-align: end;
+    margin-top: 20px;
+}
