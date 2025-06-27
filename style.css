@@ -55,7 +55,7 @@ h1{
     padding-right: 80px;
 
 }
-.head-sign-up{
+button{
     border: none;
     border-radius: 5px;
     padding: 10px 25px;
@@ -114,4 +114,19 @@ h2{
     font-weight: bold;
     text-align: end;
     margin-top: 20px;
+}
+.blue-container{
+    margin: 7% 15%;
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+    color: #f9faf8;
+}
+.sign-up{
+    border: 2px solid white;
+}
+.blue-container p{
+    color: #e5e7eb;
 }
